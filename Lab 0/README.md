@@ -1,0 +1,1 @@
+This folder is about Lab 0, which about Setup Environment. In general, this lab is talking about how to install pip, virtualenv, jupyter notebook and install packages.
